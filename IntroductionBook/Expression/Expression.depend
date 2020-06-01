@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589982124 source:c:\users\matei\desktop\c++\expression\main.cpp
+	<iostream>
+	<fstream>
+

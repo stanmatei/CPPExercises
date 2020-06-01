@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590574633 source:c:\users\matei\desktop\c++\teststr\main.cpp
+	<iostream>
+	<string.h>
+

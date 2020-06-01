@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590524668 source:c:\users\matei\desktop\c++\romeoandjuliet\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

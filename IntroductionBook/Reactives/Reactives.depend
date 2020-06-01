@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589987191 source:c:\users\matei\desktop\c++\reactives\main.cpp
+	<iostream>
+	<fstream>
+

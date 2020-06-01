@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590478933 source:c:\users\matei\desktop\c++\shirt\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+

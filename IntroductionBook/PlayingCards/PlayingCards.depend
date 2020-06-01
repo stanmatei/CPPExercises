@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589556935 source:c:\users\matei\desktop\c++\playingcards\main.cpp
+	<iostream>
+	<fstream>
+

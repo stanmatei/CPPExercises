@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590499094 source:c:\users\matei\desktop\c++\trains\main.cpp
+	<iostream>
+	<fstream>
+
