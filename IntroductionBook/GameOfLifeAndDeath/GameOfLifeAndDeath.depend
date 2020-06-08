@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591084048 source:c:\users\matei\desktop\c++\gameoflifeanddeath\main.cpp
+	<iostream>
+	<fstream>
+

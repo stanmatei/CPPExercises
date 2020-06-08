@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591356109 source:c:\users\matei\desktop\c++\karatsubamultiplication\main.cpp
+	<iostream>
+	<string.h>
+

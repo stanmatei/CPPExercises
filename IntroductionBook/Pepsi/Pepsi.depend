@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591194661 source:c:\users\matei\desktop\c++\pepsi\main.cpp
+	<iostream>
+	<fstream>
+

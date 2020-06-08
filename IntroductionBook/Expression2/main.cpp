@@ -1,26 +1,38 @@
 #include <iostream>
 
 using namespace std;
-float abs1(float);
-float maxi(float, float);
-float mini(float, float);
+
+int maxi(int x, int y);
+int mini(int x, int y);
+int abs(int x);
 
 int main()
 {
-    float a, b, c, d;
+    int a, b, c, d;
     cin >> a >> b >> c >> d;
-    cout << (a+b > c- d) ? maxi(mini(abs1(a) - 3 * b, c - 2 * abs1(d)), mini(abs1(a) + 3 * b, c + 2 * abs1(d))): mini(maxi(abs1(a) - 3 * b, c - 2 * abs1(d)), maxi(abs1(a) + 3 * b, c + 2 * abs1(d)));
+    if(c + d <= 3){
+        cout << maxi(abs(a) - 3, abs(b) - 6);
+    }
+    else
+        cout << (c + d < 7) ? mini(abs(a) - 3, abs(b) + 6) : mini(abs(a) + abs(b), 18);
     return 0;
 }
-float abs1(float x){
-    if(x >= 0) return x;
+
+int maxi(int x, int y){
+    if(x > y) return x;
+    return y;
+}
+
+int mini(int x, int y){
+    if(x > y) return y;
+    return x;
+}
+int abs(int x){
+    if(x > 0){
+        return x;
+    }
     return -x;
 }
-float maxi(float a, float b){
-    if(a >= b) return a;
-    return b;
-}
-float mini(float a, float b){
-    if(a <= b) return a;
-    return b;
-}
+
+
+
