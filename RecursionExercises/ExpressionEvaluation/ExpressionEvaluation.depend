@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591714796 source:c:\users\matei\desktop\c++\cppexercises\recursionexercises\expressionevaluation\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

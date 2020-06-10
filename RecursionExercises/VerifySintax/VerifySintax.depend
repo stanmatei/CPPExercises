@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591696039 source:c:\users\matei\desktop\c++\cppexercises\recursionexercises\verifysintax\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+

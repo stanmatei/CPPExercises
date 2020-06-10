@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591607098 source:c:\users\matei\desktop\c++\cppexercises\recursionexercises\ex1\main.cpp
+	<iostream>
+	<string.h>
+
