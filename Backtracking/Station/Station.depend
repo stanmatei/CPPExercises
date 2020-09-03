@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595943902 source:c:\users\matei\desktop\c++\cppexercises\backtracking\station\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

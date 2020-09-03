@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598361693 source:c:\users\matei\desktop\c++\cppexercises\backtracking\horsejump\main.cpp
+	<iostream>
+	<vector>
+

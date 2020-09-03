@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595928401 source:c:\users\matei\desktop\c++\cppexercises\backtracking\dominoes\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1594801741 source:c:\users\matei\desktop\c++\cppexercises\classes\bigintex\main.cpp
+	<iostream>
+	<fstream>
+	"BigInt.h"
+
+1594801422 c:\users\matei\desktop\c++\cppexercises\classes\bigintex\include\bigint.h
+	<iostream>
+	<fstream>
+
+1594801622 source:c:\users\matei\desktop\c++\cppexercises\classes\bigintex\src\bigint.cpp
+	"BigInt.h"
+	<string.h>
+

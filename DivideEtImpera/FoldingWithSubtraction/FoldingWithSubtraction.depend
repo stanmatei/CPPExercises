@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595242164 source:c:\users\matei\desktop\c++\cppexercises\divideetimpera\foldingwithsubtraction\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+

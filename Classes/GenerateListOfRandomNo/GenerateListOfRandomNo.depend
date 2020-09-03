@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594829806 source:c:\users\matei\desktop\c++\cppexercises\classes\generatelistofrandomno\main.cpp
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+

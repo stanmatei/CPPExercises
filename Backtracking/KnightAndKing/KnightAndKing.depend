@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598432682 source:c:\users\matei\desktop\c++\cppexercises\backtracking\knightandking\main.cpp
+	<iostream>
+	<fstream>
+
