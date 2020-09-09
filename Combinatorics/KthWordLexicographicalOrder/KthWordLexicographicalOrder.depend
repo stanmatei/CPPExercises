@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599659212 source:c:\users\matei\desktop\c++\cppexercises\combinatorics\kthwordlexicographicalorder\main.cpp
+	<iostream>
+	<string.h>
+
